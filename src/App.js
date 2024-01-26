@@ -18,3 +18,15 @@ export default function App(){
     </BrowserRouter>
   )
 }
+
+// import React from 'react'
+// import Effect from './Effect'
+// import Reducer from './Reducer'
+
+// export default function App() {
+//   return (
+//     <div><Effect/>
+//     <Reducer/>
+//     </div>
+//   )
+// }

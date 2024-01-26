@@ -11,7 +11,6 @@ export default function Footer() {
             <div class = 'grid-item'>04</div>
             <div class = 'grid-item'>05</div>
             <div class = 'grid-item'>06</div>
-            
         </div>
     </div>
   )

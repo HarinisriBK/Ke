@@ -23,12 +23,14 @@ import React from 'react'
 import Effect from './Effect'
 import Reducer from './Reducer'
 import Call from './Call'
+import CounterComponent from './CounterComponent'
+import Memo from './Memo'
 
 export default function App() {
   return (
     <div><Effect/>
     <Reducer/>
-    <Call/>
+    <Call/><CounterComponent/><Memo/>
     </div>
   )
 }
